@@ -13,3 +13,8 @@ console.log("subtraktion: " + subtraktionOperator)
 let multiplikationOperator = 2 * 2
 console.log(multiplikationOperator)
 console.log("multiplication: " + multiplikationOperator) 
+
+// Division
+let divisionOperator = 4 / 2
+console.log(divisionOperator)
+console.log("diviscion: " + divisionOperator)
